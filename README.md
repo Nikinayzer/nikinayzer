@@ -7,6 +7,11 @@
   
 
 - 🔭 I’m currently working on [Ourgame web client](https://github.com/Nikinayzer/ourgame-client)  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
   
 
 <br/>  
@@ -58,17 +63,13 @@
 <br/>  
 
 # 📊 GitHub Stats:
-<div align="center">  
+
 ![](https://github-readme-stats.vercel.app/api?username=nikinayzer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikinayzer&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikinayzer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
+
+
 
 
 ## 🏆 GitHub Trophies
