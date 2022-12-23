@@ -12,7 +12,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,10 +58,11 @@
 <br/>  
 
 # 📊 GitHub Stats:
+<div align="center">  
 ![](https://github-readme-stats.vercel.app/api?username=nikinayzer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikinayzer&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikinayzer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 
 
 
@@ -71,7 +72,7 @@
 
 <br>
 
-## Connect with me  
+## 🌐 Connect with me  
 <div align="center">
 <a href="https://gitlab.com/N1ckor" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
