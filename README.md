@@ -7,7 +7,7 @@
   
 
 
-- 🔭 I’m currently working on [Ourgame web client](https://github.com/Nikinayzer/ourgame-client)  
+- 🔭 I’m currently working on [Ourgame web client](https://github.com/Nikinayzer/ourgame-client)  and [Bar Scout](https://github.com/Nikinayzer/Bar-Scout)
 
 
 <!--
