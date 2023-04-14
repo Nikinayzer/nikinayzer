@@ -7,7 +7,8 @@
   
 
 
-- 🔭 I’m currently working on [Ourgame web client](https://github.com/Nikinayzer/ourgame-client)  and [Bar Scout](https://github.com/Nikinayzer/Bar-Scout)
+- 🔭 I’m currently working on [Ourgame web client](https://github.com/Nikinayzer/ourgame-client)  and [Bar Scout](https://github.com/Nikinayzer/Bar-Scout).
+Also modifying [zxcvbn_cz - Password Strength Estimation library](https://github.com/Nikinayzer/zxcvbn-czech-enchanted).
 
 
 <!--
