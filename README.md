@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nikita (Nick) Korotov, a full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Nikita (Nick) Korotov, a full-stack student 👨‍💻 </div>  
   
 
 
