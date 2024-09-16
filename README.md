@@ -6,8 +6,7 @@
 ### <div align="center">I'm Nikita (Nick) Korotov, a full-stack student 👨‍💻 </div>  
   
 
-
-- 🔭 I’m currently working on [Romaji2kanji - interactive tool for learning Japanese](https://github.com/Nikinayzer/romaji2kanji).
+- 🔭 I’m currently working on [Smichoff Server](https://github.com/Nikinayzer/smichoff-server) and [Romaji2kanji - interactive tool for learning Japanese](https://github.com/Nikinayzer/romaji2kanji).
 
 
 <!--
